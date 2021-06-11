@@ -28,7 +28,7 @@ This repository is dedicated to 4 sorting algorithms:
     O Merge_sort levou 0.0080s.
 
 
-     Lista ao contrário
+    | Lista ao contrário |
     =-=-=-=-=-=-=-=-=-=-=-=-=
     O Selection_sort levou 0.0738s.
     O Bubble_sort levou 0.1438s.
