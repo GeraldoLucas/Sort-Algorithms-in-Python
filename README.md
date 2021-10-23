@@ -19,7 +19,7 @@ This repository is dedicated to 4 sorting algorithms:
     O Merge_sort levou 0.0030s. 
   
   
-    | Lista quase Orquenada |
+    | Lista quase Ordenada |
     =-=-=-=-=-=-=-=-=-=-=-=-=
     O Selection_sort levou 0.0330s.
     O Bubble_sort levou 0.0889s.
